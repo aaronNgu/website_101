@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'sf-pro-display-bold-webfont';
+   font-display: swap;
+   src: url('sf-pro-display-bold-webfont/font.woff');
+}
+@font-face {
+   font-family: 'sf-pro-display-regular-webfont';
+   font-display: swap;
+   src: url('sf-pro-display-regular-webfont/font.woff');
+}
